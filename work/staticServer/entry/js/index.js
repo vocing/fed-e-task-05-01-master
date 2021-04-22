@@ -1,0 +1,1 @@
+document.getElementById('div').innerHTML = '引入js资源后编写'
